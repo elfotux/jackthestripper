@@ -1,0 +1,2 @@
+# jackthestripper
+ Description  ENGLISH: Jack the Stripper uses iptables, Ettercap and SSLStrip to intercept data between two connected targets (IP addresses). The victims's ARP tables must be poisoned by Ettercap, that means Jack the Stripper works only on local networks.  PORTUGUÊS: Jack The Stripper utiliza iptables, Ettercap e SSLStrip para interceptar dados entre dois alvos (endereços IP) interconectados. As tabelas ARP das vítimas devem ser envenenadas pelo Ettercap, isso significa que Jack The Stripper funciona apenas em redes locais.
